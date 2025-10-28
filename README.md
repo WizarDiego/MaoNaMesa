@@ -16,7 +16,7 @@
 
   <!-- Agrupa os elementos que compõe o cabeçalho. -->
   <header>
-    <a href="./layout.html" id="logo">Logo</a>
+    <a href="./layout.html" id="logo">Logo🤖</a>
 
     <button id="openMenu">&#9776;</button>
 
